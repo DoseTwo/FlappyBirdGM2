@@ -1,0 +1,1 @@
+draw_sprite_tiled_ext(spr_fade, 0, 0, 0, 1, 1, c_white, fade);
